@@ -5,7 +5,7 @@ Extension to help you to sort photos using IrfanView.
 - Navigate through your photo collection using IrfanView and move the photo (until selected) to a new folder. A popup will ask you for the name of the folder, adding date of the first photo as a prefix
   
 ## How to install
-- Download Latest release of IrfanView.PhotoSort
+- Download Latest release (https://github.com/sybaris/IrfanView.PhotoSort/releases) of IrfanView.PhotoSort 
 - Unzip all files in a folder (note this folder, you will need it later)
 - Open IrfanView
 - Select "Options"
